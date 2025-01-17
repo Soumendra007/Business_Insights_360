@@ -27,21 +27,39 @@ The dashboard draws data from two primary sources:
 ## Screenshots
 Home
 
-finance
+![Screenshot (4349)](https://github.com/user-attachments/assets/43bb53e2-eb86-4a20-9e20-ec6934a84e5f)
 
-sales
+Finance
+![Screenshot (4350)](https://github.com/user-attachments/assets/46c3f082-b68e-41a7-b18d-8df38e2dbac2)
 
-marketing
 
-supply chain
+Sales
+![Screenshot (4351)](https://github.com/user-attachments/assets/f47121c6-2415-4f86-8cf3-579f4bbdcf21)
+
+
+Marketing
+![Screenshot (4352)](https://github.com/user-attachments/assets/0c6c7f19-ecd2-4db0-b91f-1f46fd6c6db0)
+
+
+Supply chain
+![Screenshot (4353)](https://github.com/user-attachments/assets/8e195aa0-e0d2-4464-b304-902b854f0d5a)
+
 
 Executive View
+![Screenshot (4354)](https://github.com/user-attachments/assets/d1a713d2-7621-4712-be82-b79a0b5e59e2)
 
-info
 
-support
+Info
+![Screenshot (4355)](https://github.com/user-attachments/assets/93849675-8304-4807-9e69-065d90a9e1fe)
 
-data model
+
+Support
+![Screenshot (4356)](https://github.com/user-attachments/assets/966a514e-b977-4be1-9d0d-460beebfc805)
+
+
+Data model
+![Screenshot (4357)](https://github.com/user-attachments/assets/dbf8185c-5a2d-4bd9-8c4f-9b6a05ba9bb9)
+
 
 ## 🔗 Links
 
